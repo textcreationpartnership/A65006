@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Vindication and declaration of the Scots nation, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65006</idno>
+            <idno type="STC">Wing V463A</idno>
+            <idno type="STC">ESTC R204586</idno>
+            <idno type="EEBO-CITATION">13553492</idno>
+            <idno type="OCLC">ocm 13553492</idno>
+            <idno type="VID">100229</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65006)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100229)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1558:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Vindication and declaration of the Scots nation, &amp;c.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Identified on film as Wing V463A (number cancelled).</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1649-1660.</term>
+               <term>Scotland --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:100229:1"/>
+            <pb n="1" facs="tcp:100229:1"/>
+            <head>The <hi>VINDICATION</hi> and <hi>DECLARATION</hi> of the <hi>Scots</hi> Nation, &amp;c.</head>
+            <p>AN Aſperſion being caſt upon our Actions, and a Sandall raiſed againſt our Proceedings. We conclude our ſelves engaged to wipe off the one, and beat downe the other by this ſhort <hi>Vindication.</hi>
+            </p>
+            <p>It is not unknown to the world, that at <hi>Firſt</hi> we were Invited to aſſiſt the Kingdome of <hi>England</hi> upon a <hi>Solemne Agreement,</hi> as well to make the late <hi>King Glorious,</hi> as to preſerve to Lawfull Rights, and Liberties of the Subjects. The onely means to effect this, was propounded the forcible Re<g ref="char:EOLhyphen"/>ſcuing the King from His <hi>Evill,</hi> and bringing Him back to His <hi>Great Coun<g ref="char:EOLhyphen"/>cell,</hi> whom we were informed He had [wilfully, and for no cauſe given by them] deſerted: <hi>[Though now we are fully ſatisfied of the contrary.]</hi>
+            </p>
+            <p>This ſpecious pretence involved us in that Engagement: in order to the effecting whereof, our Army in 1644. Marched into <hi>England:</hi> The ſucceſſe which their Deſigne found thereby, we need not mention; it being acknow<g ref="char:EOLhyphen"/>ledged at large by their own Papers.</p>
+            <p>Upon the Account alſo, <hi>after the Kings comming into our Army,</hi> we treated with them, and <hi>upon their large proteſtations of acting nothing contrary to the firſt agreement,</hi> [of the faithfull performance whereof we alone were not fruſtrated] we left his Majeſty to be attended on by the <hi>Commiſſioners,</hi> of both Houſes of the Then Parliament of <hi>England,</hi> expecting thenceforth a ſpeedy performance of theirs and our Agreement, but how our expectation was therein deceived we leave it to their owne <hi>late proceedings</hi> to determine and declare.</p>
+            <p>After this, being informed how the Army of <hi>Sectaries</hi> behaved themſelves towards the <hi>King,</hi> we held our ſelves obliged by our ſaid <hi>Solemn Engagement</hi> to endeavour the Redreſſe of his Majeſties ſad condition, and to that end by conſent of Parliament we raiſed an Army in 1648. and gave them Order to March into <hi>England:</hi> which was accordingly performed.</p>
+            <p>Upon their March we were informed of a <hi>Treaty</hi> to be between his then Majeſty and his two Houſes, and were alſo poſſeſſed with this ſuggeſtion, that under the countenance of that our engagement, <hi>the Malignant party had ſtrengthned themſelves to hinder the happy effects of the ſaid Treaty:</hi> of which we being unwilling to be accounted the abſtructers, we ſent Orders to our Gene<g ref="char:EOLhyphen"/>rall
+<pb n="2" facs="tcp:100229:2"/>to ſtay his further March, and forbeare any engagement againſt the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> till we were truly ſatisfied what effect the ſaid <hi>Treaty</hi> would produce.</p>
+            <p>Our Generall accordingly made an Hault, not doubting but that the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> had done the ſame. But their Lieutenant Generall <hi>CromWell</hi> taking ad<g ref="char:EOLhyphen"/>vantage of his ſecurity, unexpectedly fell into our Generalls quarters [<hi>who ſuſpected no ſuch treacherous fruits of a pretended Treaty,</hi> and had no order to engaſte againſt them] and before our Generall was or could be Reſolved what to doe, proſecuted his Deſigne with ſo hot and eager a purſuite, that by the advantage he had got by that his treacherous firſt onſet, he ſo diſperſed our whole Army, that it was no Labour for him totally to deſtroy the ſame, or have them all at his Mercy <hi>[which in the concluſion proved but cru<g ref="char:EOLhyphen"/>elty, witneſſe our Generall himſelfe Whom they murdered in London after they had given him quarter.]</hi>
+            </p>
+            <p>By this defeat he gained a free paſſage with his Army without oppoſition, to March againſt this Kingdome. To prevent this, thoſe of us who had pro<g ref="char:EOLhyphen"/>teſted againſt that Engagement, and to their utmoſt power oppoſed it in Armes [<hi>which they never laid downe, untill the Garriſons of BERWICK</hi> and Carliſle <hi>were reſtored to the Kingdome of</hi> England] Theſe of us [we ſay] <hi>by a letter from the Houſe of Commons to the Generall Aſſembly of this Kirk of the third of</hi> Auguſt 1648. <hi>intimating With What hopefull ſucceſſe the Treaty was like to go on</hi>) were invited to a Treaty with the ſaid Lieu. Generall <hi>Cromwell</hi> authorized thereunto by both Houſes of Parliment: And this was accepted on both Parts.</p>
+            <p>
+               <hi>At the meeting upon the</hi> 5. <hi>of</hi> October <hi>following Lieu. Generall</hi> Cromwell <hi>in the Name of the Parliament of</hi> England, <hi>did repreſent to the Committee of E<g ref="char:EOLhyphen"/>ſtarts of this Kingdome, the wrongs and injuries committed againſt the Kingdome of</hi> England <hi>in that Engagement, and thereupon did demand by way of ſatisfaction, that they would give aſſurance in the name of the Kingdome of</hi> Scotland, <hi>not to admit, or ſuffer any who have been Active in, or conſenting to that Engagement, to be employed in any Publique place, or Truſt whatſoever; which</hi> [the exigen<g ref="char:EOLhyphen"/>cies of our affaires, as then neceſſitating us thereunto] <hi>was not onely granted, and afterwards confirmed in Parliament,</hi> but alſo publickly diſclaimed, be<g ref="char:EOLhyphen"/>cauſe we did expect a happy period of the above-mentioned Treaty be<g ref="char:EOLhyphen"/>tween His Majeſty, and His two Houſes: but what effect that did produce is apparent to the whole world in Generall, and to this Kingdome particu<g ref="char:EOLhyphen"/>larly, who are concerned therein more eſpecially; for thereby they con<g ref="char:EOLhyphen"/>clude, themſelves free from whatſoever Relation, or mutuall obligation to the Kingdome of <hi>England,</hi> and bound equally by the Law of God, Nations, and Common Right to declare as followeth.</p>
+            <div type="part">
+               <pb n="3" facs="tcp:100229:2"/>
+               <head>The <hi>DECLARATION</hi> of, &amp;c.</head>
+               <p>SInce the hideous, and unparrallel'd proceedings of the Sectaries of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> eſpecially of the Army [in reference to Religion, to the Law, to the proteſting againſt, and diſanulling all the proceedings of the Treaty, to the Freedome of both Houſes, (one being declared uſeleſſe, and many Members of the other kept away by force, and the reſt under the power of the Sword) to the taking away of the <hi>Kings Life,</hi> and the changing the very <hi>Fundamentall Government of that Kingdome</hi>] ſince their proceedings [we ſay] have mani<g ref="char:EOLhyphen"/>feſted themſelves contrary, and Diametrically oppoſite to all bonds of Re<g ref="char:EOLhyphen"/>ligion, or but Morall Honeſty, Loyalty to the King, mutuall amity and Friendſhip betwixt the two Kingdomes, the Solemne League and Cove<g ref="char:EOLhyphen"/>nant, yea, and their own <hi>Proteſtations, Declarations, Profeſſions, and Remon<g ref="char:EOLhyphen"/>ſtrances.</hi>
+               </p>
+               <p>And ſince by ſuch proceedings it is apparent, that there hath been in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> a back-ſliding, and departure from thoſe Grounds and Principles wherein the two Kingdomes were engaged: we held our ſelves bound equally by the Law of God and Nations to proteſt againſt them, and to addreſſe our ſelves according to the Law of this Kingdome, to the Heire apparent of this Crown and Scepter, whom we have not onely acknowledged for our King, and with all readineſſe, unanimity, alacrity, and ſolemnity proclamed His Majeſty by the name of <hi>CHARLES</hi> the SECOND, of <hi>Great Brittaine, France and Ireland, &amp;c.</hi> But alſo, [having now by his laſt <hi>Expreſſe</hi> received ſuch full ſatisfaction as both the Generall Aſſembly of the Kirk, and Grand Committee of Eſtates did deſire, or could be expected, doe DECLARE to the whole world, that we will receive His Majeſty [when he ſhall think fit to Honour us with, and encourage us by His Royall preſence] with all cheer<g ref="char:EOLhyphen"/>fullneſſe, and moſt willingly render unto Him that faithfull ſubjection, and dutifull obedience which can be expected from Loyall Subjects to ſo <hi>Gracious a King,</hi> who, by granting ſo much, hath ſo farre endeared <hi>This Nation,</hi> That we further DECLARE,</p>
+               <p>That we wil contribute our utmoſt endeavours according to the Duty of Faithfull and Loyall Subjects, to ſettle his Majeſty in the peaceable Poſſeſſion of the Government of his Kingdome of <hi>England,</hi> and other his Majeſties Do<g ref="char:EOLhyphen"/>minions, according to his Majeſties' undoubted right of Succeſſion, and with all their Lives, Eſtates, Power, and Strength, aſſiſt his Majeſty in bringing to Juſtice the Actors and Abettors in that HORRID and UNPAR<g ref="char:EOLhyphen"/>RALED MURDER of his Majeſties <hi>Royall Father,</hi> by which we doubt not but fully both to ſatisfie the whole world how much we did and ſtill do
+<pb n="4" facs="tcp:100229:3"/>deteſt and abominate the very deſigne thereof, and alſo give a ſufficient teſti<g ref="char:EOLhyphen"/>mony of the integrity of intentions towards MONARCHICALL Govern<g ref="char:EOLhyphen"/>ment and the continuance thereof in his Majeſties Perſon and Poſterity, and of our utter deteſtation of the unparaleld practiſes of thoſe <hi>Sectaries</hi> at <hi>Weſt-minſter, Derby-Houſe,</hi> and in the <hi>Army,</hi> who Deſigne the Ruine of his Majeſty and the Subverſion of the ancient and Fundamentall Lawes and Government of all his Three Kingdomes, whom therefore we Reſolve to our utmoſt hazard of our Lives, and Eſtates, to oppoſe: And to that end doe further DECLARE,</p>
+               <p>That we wil not admit of any <hi>Treaty</hi> with any of his Majeſties Enemies (without his conſent nor) till all the Late proceedings in <hi>England</hi> ſince the ending of the <hi>Treaty,</hi> between his late barbarouſly Murdered Majeſty and his then Two Houſes of Parliament, be diſclaimed and diſavowed, and both Houſes there be permitted to ſit in Freedome and ſafety, that ſo addreſſes may without feare and danger of the Subjects lives, be made unto them concerning all matters of juſt complaint.</p>
+               <p>And from theſe Reſolutions and Declarations in the laſt place, as we DE<g ref="char:EOLhyphen"/>CLARE, that as no alteration or revolution of affairs can abſolve us, ſo we truſt in God that no ſucceſſe, whether good or bad, ſhall be able to divert us from that courſe and means by which we have joyntly and unanimouſly con<g ref="char:EOLhyphen"/>ſented to aſſiſt his Majeſty according to this our preſent <hi>Declaration,</hi> and will perſue with all alacrity till we have ſetled his Majeſty according to his owne Hearts deſire, attained the wiſhed ends of the long continued Troubles of his Three Kingdomes, and put a period to thoſe unnaturall Warres and diviſions which have ſo long waſted all his Dominions; That ſo at Length (if God be ſo pleaſed) we may live a comfortable and quiet life under the ſhadow of ſo hopefull and Gracious a Kings proſperous and happy Government. Which God of his infinite Mercy grant in his good time That ſo the Throne of <hi>Charles</hi> the Second may be eſtabliſhed in righteouſneſs, peace and Hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+               <closer>Vivat, Vincat, Floreat CAROL<g ref="char:V">Ʋ</g>S Secundus.</closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:100229:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
